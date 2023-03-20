@@ -32,4 +32,5 @@ Before you start make sure you have downloaded Visual Studio Code, Git and have 
 - index.html 
 - index.css 
 - index.js
-![image](https://user-images.githubusercontent.com/114632917/226378331-9c50753e-869c-44ac-adfa-82966d421450.png)
+
+<b> Berikut merupakan project setelah di run</b>

@@ -34,6 +34,7 @@ Before you start make sure you have downloaded Visual Studio Code, Git and have 
 - index.js
 
 <b> Berikut merupakan project setelah di run</b>
+
 <img width="1280" alt="Screen Shot 2023-03-20 at 22 01 04" src="https://user-images.githubusercontent.com/114632917/226380667-56fb41fa-1b16-48f2-b9c1-08d34e3661b8.png">
 
 <img width="1280" alt="Screen Shot 2023-03-20 at 22 01 12" src="https://user-images.githubusercontent.com/114632917/226380717-131f1fea-555f-426e-bac6-8c3dd1220ff9.png">
